@@ -1121,14 +1121,14 @@
           }
         }
       },
-      "proyecto.Domain/1.0.0": {
+      "ControlDeInventario.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/proyecto.Domain.dll": {}
+          "bin/placeholder/ControlDeInventario.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/proyecto.Domain.dll": {}
+          "bin/placeholder/ControlDeInventario.Domain.dll": {}
         }
       }
     }
@@ -3426,18 +3426,18 @@
         "version.txt"
       ]
     },
-    "proyecto.Domain/1.0.0": {
+    "ControlDeInventario.Domain/1.0.0": {
       "type": "project",
-      "path": "../proyecto.Domain/proyecto.Domain.csproj",
-      "msbuildProject": "../proyecto.Domain/proyecto.Domain.csproj"
+      "path": "../ControlDeInventario.Domain/ControlDeInventario.Domain.csproj",
+      "msbuildProject": "../ControlDeInventario.Domain/ControlDeInventario.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ControlDeInventario.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
-      "proyecto.Domain >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0"
     ]
   },
   "packageFolders": {
@@ -3446,11 +3446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\proyect\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
-      "projectName": "proyecto.Infrastructure",
-      "projectPath": "C:\\C#\\proyect\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+      "projectUniqueName": "C:\\CSharp\\proyect\\ControlDeInventario.Infrastructure\\ControlDeInventario.Infrastructure.csproj",
+      "projectName": "ControlDeInventario.Infrastructure",
+      "projectPath": "C:\\CSharp\\proyect\\ControlDeInventario.Infrastructure\\ControlDeInventario.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jjyor\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\proyect\\proyecto.Infrastructure\\obj\\",
+      "outputPath": "C:\\CSharp\\proyect\\ControlDeInventario.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjyor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3465,8 +3465,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\C#\\proyect\\proyecto.Domain\\proyecto.Domain.csproj": {
-              "projectPath": "C:\\C#\\proyect\\proyecto.Domain\\proyecto.Domain.csproj"
+            "C:\\CSharp\\proyect\\ControlDeInventario.Domain\\ControlDeInventario.Domain.csproj": {
+              "projectPath": "C:\\CSharp\\proyect\\ControlDeInventario.Domain\\ControlDeInventario.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thNaHUg7uShPd1lQbkqEZPrYiTHwILb5bItmDRz/8+oxSmtFxGezxA/LUzO5cUtHYWRfGouovXF+gTXlmpKj9A==",
+  "dgSpecHash": "4GvA/HCL7eGUvg6VnbRv0cfuFJSA+pPPGtu2bROZV8eLw/ZYYm+DrMgc+E80/surcwwfwQLJiTfY5b+zUnDWIg==",
   "success": true,
-  "projectFilePath": "C:\\C#\\proyect\\proyecto.Infrastructure\\proyecto.Infrastructure.csproj",
+  "projectFilePath": "C:\\CSharp\\proyect\\ControlDeInventario.Infrastructure\\ControlDeInventario.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jjyor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jjyor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

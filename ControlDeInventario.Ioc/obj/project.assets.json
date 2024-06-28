@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\proyect\\proyecto.Ioc\\proyecto.Ioc.csproj",
-      "projectName": "proyecto.Ioc",
-      "projectPath": "C:\\C#\\proyect\\proyecto.Ioc\\proyecto.Ioc.csproj",
+      "projectUniqueName": "C:\\CSharp\\proyect\\ControlDeInventario.Ioc\\ControlDeInventario.Ioc.csproj",
+      "projectName": "ControlDeInventario.Ioc",
+      "projectPath": "C:\\CSharp\\proyect\\ControlDeInventario.Ioc\\ControlDeInventario.Ioc.csproj",
       "packagesPath": "C:\\Users\\jjyor\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\proyect\\proyecto.Ioc\\obj\\",
+      "outputPath": "C:\\CSharp\\proyect\\ControlDeInventario.Ioc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjyor\\AppData\\Roaming\\NuGet\\NuGet.Config"
