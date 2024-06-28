@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnALb5YTel+gH6Y7jU+Yg/MVlOUM4SxA0qa/rOQCMYT1pnb9sCFVmLMcUcj8uNrksWpPbLJEKDLyc8iim24g+A==",
+  "dgSpecHash": "nlhMbv80vUawW7j633dzDw5lNV2Ab6eC8ysWbEmuKXGwDxi3b2OFs+Nb1JpbEx9RAv2XTif3VQbvhejxKOsc0Q==",
   "success": true,
-  "projectFilePath": "C:\\C#\\proyect\\proyecto.Api\\proyecto.Api.csproj",
+  "projectFilePath": "C:\\CSharp\\proyect\\ControlDeInventario.Api\\ControlDeInventario.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jjyor\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\jjyor\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

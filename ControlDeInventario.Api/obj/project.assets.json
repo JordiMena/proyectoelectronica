@@ -8464,11 +8464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\proyect\\proyecto.Api\\proyecto.Api.csproj",
-      "projectName": "proyecto.Api",
-      "projectPath": "C:\\C#\\proyect\\proyecto.Api\\proyecto.Api.csproj",
+      "projectUniqueName": "C:\\CSharp\\proyect\\ControlDeInventario.Api\\ControlDeInventario.Api.csproj",
+      "projectName": "ControlDeInventario.Api",
+      "projectPath": "C:\\CSharp\\proyect\\ControlDeInventario.Api\\ControlDeInventario.Api.csproj",
       "packagesPath": "C:\\Users\\jjyor\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\proyect\\proyecto.Api\\obj\\",
+      "outputPath": "C:\\CSharp\\proyect\\ControlDeInventario.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjyor\\AppData\\Roaming\\NuGet\\NuGet.Config"
