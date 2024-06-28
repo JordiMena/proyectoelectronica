@@ -8006,11 +8006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\proyect\\proyecto.Web\\proyecto.Web.csproj",
-      "projectName": "proyecto.Web",
-      "projectPath": "C:\\C#\\proyect\\proyecto.Web\\proyecto.Web.csproj",
+      "projectUniqueName": "C:\\CSharp\\proyect\\ControlDeInventario.Web\\ControlDeInventario.Web.csproj",
+      "projectName": "ControlDeInventario.Web",
+      "projectPath": "C:\\CSharp\\proyect\\ControlDeInventario.Web\\ControlDeInventario.Web.csproj",
       "packagesPath": "C:\\Users\\jjyor\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\proyect\\proyecto.Web\\obj\\",
+      "outputPath": "C:\\CSharp\\proyect\\ControlDeInventario.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjyor\\AppData\\Roaming\\NuGet\\NuGet.Config"
